@@ -4,8 +4,8 @@ This repo was initially made while preparing for an interview , hope it helps so
 ## A todo list of what I'm supposed to do
 
 PHP Review
-    - [ ] PHP Basics
-    - [ ] Working with Arrays
+    - [ ]PHP Basics
+    - [ ]Working with Arrays
         - [ ] Sorting arrays
     - [ ] Variable Scope in PHP
     - [ ] Arithmetic Operators
